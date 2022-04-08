@@ -71,8 +71,7 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 * Profile -> Input field for user information on physique
   
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="wireframes.jpg" width=600>
+<img src="wireframes2.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
