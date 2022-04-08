@@ -72,7 +72,7 @@ FitBuddy is an app that shows users how to exercise including videos depending o
   
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="wireframes.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -89,8 +89,12 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 | description   |String         | image description
 | userPicture   |File           |Profile Picture|
 
-Author 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+* Feed
+  * (READ/GET) Query all posts
+* Post
+  * (CREATE/POST) Create a new post and upload to feed
+* Exercise
+  * (READ/GET) Gets exercies for user based on profile information
+* Profile
+  * (UPDATE/PUT) Update user information to give personalized exercises
