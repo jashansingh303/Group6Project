@@ -45,7 +45,7 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 
 - [x] Log in
 - [x] Sign up
-   - [] Users have to enter their email, username, password, and date of birth to sign up
+   -[] Users have to enter their email, username, password, and date of birth to sign up
 - [x] Feed
    - [] Users can see posts from other users
 - [] Post
