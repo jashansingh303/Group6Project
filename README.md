@@ -21,7 +21,7 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 - **Habit:** The app focuses and encourages users to share daily updates of their physique.
 - **Scope:** Anyone can use the app as most people would like to have a better physique. Users will similar goals will go on journeys together to better their physiques.
 
-##Walkthrough
+## Walkthrough
 <img src="walkthrough.gif" width="250px">
 
 ## Product Spec
