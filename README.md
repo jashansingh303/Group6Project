@@ -43,17 +43,17 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 
 ### 2. Screen Archetypes
 
-[] Log in
-[] Sign up
+[x] Log in
+[x] Sign up
    * Users have to enter their email, username, password, and date of birth to sign up
-[] Feed
-   * Users can see posts from other users
+[x] Feed
+   [] Users can see posts from other users
 [] Post
-   * Users can make posts to the feed
+   [] Users can make posts to the feed
 [] Exercises
-   * Users can see which exercises they have to do and how many sets/reps of each exercise
+   [] Users can see which exercises they have to do and how many sets/reps of each exercise
 [] Profile
-   * Users can enter personal information about their physique
+   [] Users can enter personal information about their physique
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
