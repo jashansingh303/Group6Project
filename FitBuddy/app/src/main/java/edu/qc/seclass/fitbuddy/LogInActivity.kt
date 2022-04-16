@@ -21,5 +21,9 @@ class LogInActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        signInBtn.setOnClickListener{
+            val intent = Intent(this, FeedActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

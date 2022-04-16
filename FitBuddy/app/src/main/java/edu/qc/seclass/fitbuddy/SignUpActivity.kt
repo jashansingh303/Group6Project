@@ -1,5 +1,6 @@
 package edu.qc.seclass.fitbuddy
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -12,6 +13,9 @@ class SignUpActivity : AppCompatActivity() {
         val createAccountBtn: Button
         createAccountBtn = findViewById<Button>(R.id.createAccountBtn)
 
-//        createAccountBtn.setOnClickListener(this, LogInActivity::class.java)
+        createAccountBtn.setOnClickListener{
+            val intent = Intent(this, FeedActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
