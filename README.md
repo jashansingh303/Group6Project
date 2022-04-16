@@ -49,11 +49,12 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 - [x]  Feed
   - [] Users can see posts from other users
 - [] Post
-   -[] Users can make posts to the feed
+  - [] Users can make posts to the feed
 - [] Exercises
   - [] Users can see which exercises they have to do and how many sets/reps of each exercise
- - [] Profile
-   -[] Users can enter personal information about their physique
+- [] Profile
+  - [] Users can enter personal information about their physique
+
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
