@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/AndroidApps/FitBuddy/app/src/main/res/drawable/button_bg.xml" value="0.3828125" />
         <entry key="..\:/AndroidApps/FitBuddy/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidApps/Group6Project/FitBuddy/app/src/main/res/drawable/button_bg.xml" value="0.3769230769230769" />
+        <entry key="..\:/AndroidApps/Group6Project/FitBuddy/app/src/main/res/drawable/custom_input.xml" value="0.1175925925925926" />
         <entry key="..\:/AndroidApps/Group6Project/FitBuddy/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidApps/Group6Project/FitBuddy/app/src/main/res/layout/activity_sign_up.xml" value="0.20108695652173914" />
+        <entry key="..\:/AndroidApps/Group6Project/FitBuddy/app/src/main/res/layout/activity_sign_up_actitivty.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
