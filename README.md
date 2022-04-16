@@ -21,35 +21,38 @@ FitBuddy is an app that shows users how to exercise including videos depending o
 - **Habit:** The app focuses and encourages users to share daily updates of their physique.
 - **Scope:** Anyone can use the app as most people would like to have a better physique. Users will similar goals will go on journeys together to better their physiques.
 
+##Walkthrough
+<img src="walkthrough.gif" width="250px">
+
 ## Product Spec
 
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
-* User logins and see latest posts from other users 
-* User can enter their personal information about their physique
-* Users can see their recommmended exercises
-* Users can post their updates
+[] User logins and see latest posts from other users 
+[] User can enter their personal information about their physique
+[] Users can see their recommmended exercises
+[] Users can post their updates
 
 **Optional Nice-to-have Stories**
 
-* Users can follow other users
-* Users can create groups
-* Users can see their health care providers opinion on their exercises
+[] Users can follow other users
+[] Users can create groups
+[] Users can see their health care providers opinion on their exercises
 
 ### 2. Screen Archetypes
 
-* Log in
-* Sign up
+[] Log in
+[] Sign up
    * Users have to enter their email, username, password, and date of birth to sign up
-* Feed
+[] Feed
    * Users can see posts from other users
-* Post
+[] Post
    * Users can make posts to the feed
-* Exercises
+[] Exercises
    * Users can see which exercises they have to do and how many sets/reps of each exercise
-* Profile
+[] Profile
    * Users can enter personal information about their physique
 ### 3. Navigation
 
